@@ -1,0 +1,22 @@
+/* Style Sheet for OmnipresentEchoes.github.io */
+/* drawingsstyle.css */
+
+/* Main Attraction */
+/*.main-attraction {}*/
+
+.main-attraction h1 {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.main-attraction h3 {
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.main-attraction p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
