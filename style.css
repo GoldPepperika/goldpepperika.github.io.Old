@@ -2,11 +2,12 @@
 
 /* HTML and Body */
 html {
-    background-color: rgb(0, 0, 0);
-    color: rgb(255, 255, 255);
+    background-color: rgb(15, 0, 30);
 }
 
 body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 /* End HTML and Body */
@@ -20,6 +21,7 @@ header {
 }
 /* End Header */
 
+/* Art Section */
 .art-section {
     border-bottom-style: dashed;
     border-width: 1px;
@@ -27,6 +29,36 @@ header {
 }
 
 .as-img {
+    display: block;
     width: 200px;
     height: 200px;
+}
+
+/* Main Attraction */
+/*.main-attraction {}*/
+
+.main-attraction h1 {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.main-attraction h3 {
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.main-attraction p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+/* Links */
+a {
+    color: rgb(110, 0, 255);
+}
+
+a:hover {
+    color: rgb(175, 110, 255);
 }
