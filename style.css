@@ -1,1 +1,32 @@
 /* Style Sheet for OmnipresentEchoes.github.io */
+
+/* HTML and Body */
+html {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+body {
+    text-align: center;
+}
+/* End HTML and Body */
+
+/* Header */
+header {
+    font-size: 25px;
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+}
+/* End Header */
+
+.art-section {
+    border-bottom-style: dashed;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+}
+
+.as-img {
+    width: 200px;
+    height: 200px;
+}
