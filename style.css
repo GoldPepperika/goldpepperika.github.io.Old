@@ -13,14 +13,19 @@ body {
 }
 /* End HTML and Body */
 
-/* Header */
+/* Header and Footer */
 header {
     font-size: 25px;
     border-bottom-style: solid;
     border-width: 1px;
     border-color: rgb(255, 255, 255);
 }
-/* End Header */
+
+footer p {
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+/* End Header and Footer */
 
 /* Art Section */
 .art-section {
