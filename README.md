@@ -1,3 +1,3 @@
-# OmnipresentEchoes.github.io
+# starinko.github.io
 
-This is OmnipresentEchoes/OmniEchoes's personal "website".
+This is starinko's personal website.
