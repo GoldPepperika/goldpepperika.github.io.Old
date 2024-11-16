@@ -1,3 +1,3 @@
-# starinko.github.io
+# starklaxio.github.io
 
-This is starinko's personal website.
+This is starklaxio's personal website.
